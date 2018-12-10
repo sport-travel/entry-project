@@ -14,6 +14,7 @@ Your goal for this project is to scafold a VueJS Project using vue-cli3 (https:/
 
 ### Requirements
 
+- NPM as package manager
 - Scafolded VueJS
 - ESlint Plugin with ruleset (https://vuejs.github.io/eslint-plugin-vue/)
 - Vuetify Plugin (https://vuetifyjs.com/en/getting-started/quick-start)
