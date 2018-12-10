@@ -10,7 +10,7 @@ We take the following into consideration when reviewing projects:
 
 ### Goal
 
-Your goal for this project is to scafold a VueJS Project using vue-cli3 (https://cli.vuejs.org/), and connect the top stories API from the NewYorkTimes to display recent breaking stories. 
+Your goal for this project is to scafold a VueJS Project using vue-cli3 (https://cli.vuejs.org/), and connect the top stories API from the NewYorkTimes to display recent breaking stories. You need to use VuetifyJS for predesigned components to make your UI, and AxiosJS to fetch data from the NYT API.
 
 ### Requirements
 
